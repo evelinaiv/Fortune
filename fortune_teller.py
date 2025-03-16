@@ -1,5 +1,3 @@
-!pip install transformers
-
 from transformers import pipeline
 import streamlit as st
 import random
